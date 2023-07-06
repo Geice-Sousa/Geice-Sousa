@@ -1,6 +1,6 @@
 ## Olá, eu sou Geice Sousa Pinho ♀️✨👋🏾
 
-- 👩🏾‍💻 🤓 Front-end Developer / Desenvvolvedora Front-end
+- 👩🏾‍💻 🤓 Front-end Developer / Desenvolvedora Front-end
 - 🧠 📖 Estou aprendendo React 
 - 👯 ✍🏾 Skills mais bem desenvolvidas: trabalho em equipe, adaptabilidade, flexibilidade, autoaprendizagem e resiliência
 - 😄 🎤 Pronomes: ela/dela, ella, she/her
